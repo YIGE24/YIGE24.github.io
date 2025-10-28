@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Intern @ <a href='https://www.westlake.edu.cn'>Westlake University</a> | MSc in Computer Science @ <a href='https://www.cuhk.edu.hk'>CUHK</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>ENCODE Lab</p>
+    <p>Westlake University</p>
+    <p>Hangzhou, Zhejiang, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,19 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi! I'm Xueyi Chen (Chinese: 陈学翊), a Research Intern at the <a href="https://encode-lab-ai.github.io/"><em>ENCODE Lab</em></a>, <a href="https://www.westlake.edu.cn/">**Westlake University**</a>, where I work with <a href="https://huanwang.tech/">Prof. Huan Wang</a> on making AI systems more efficient and accessible. I just wrapped up my Master of Science in Computer Science at <a href="https://www.cuhk.edu.hk/">**The Chinese University of Hong Kong (CUHK)**</a> in October 2025, where I had the opportunity to work with <a href="https://www.cse.cuhk.edu.hk/~byu/">Prof. Bei Yu</a>. Before that, I earned my Bachelor of Engineering in Software Engineering from <a href="https://www.fzu.edu.cn/">**Fuzhou University**</a> in 2024.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Research Interests
+
+My research lies at the intersection of efficiency and intelligence in AI systems. I'm particularly interested in:
+
+- **Efficient LLM/MLLM**: Making large language models faster and lighter while maintaining their powerful capabilities
+- **RL-based Model Optimization**: Using reinforcement learning to improve how models learn and adapt
+- **Multimodal Systems**: Advancing video and vision-language understanding through efficient architectures
+
+I'm always excited to discuss research ideas and explore potential collaborations! Feel free to reach out at <a href="mailto:xueyi.chen.2024@gmail.com">xueyi.chen.2024@gmail.com</a> (preferred) or <a href="mailto:chenxueyi@westlake.edu.cn">chenxueyi@westlake.edu.cn</a>.
