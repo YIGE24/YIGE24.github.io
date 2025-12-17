@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📄 Excited to share that our paper **"StreamingTOM: Streaming Token Compression for Efficient Video Understanding"** is now on arXiv! This work wouldn't have been possible without my amazing collaborators <a href="https://kd-tao.github.io/">Keda Tao</a>, <a href="https://cokeshao.github.io/">Kele Shao</a>, and my advisor <a href="https://huanwang.tech/">Prof. Huan Wang</a>. Together, we've developed a novel approach for efficient video processing in MLLMs. [Check it out here](https://arxiv.org/abs/2510.18269)!
+📄 Our paper **"StreamingTOM: Streaming Token Compression for Efficient Video Understanding"** is on arXiv! Thanks to co-authors [Keda Tao](https://kd-tao.github.io/), [Kele Shao](https://cokeshao.github.io/), and [Prof. Huan Wang](https://huanwang.tech/). [Check it out here](https://arxiv.org/abs/2510.18269)!
