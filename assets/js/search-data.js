@@ -43,14 +43,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-thrilled-to-join-the-encode-lab-at-westlake-university-as-a-visiting-student-i-m-honored-to-work-under-the-guidance-of-prof-huan-wang-on-cutting-edge-research-in-efficient-ai-systems-looking-forward-to-contributing-to-groundbreaking-work-in-multimodal-learning-and-model-optimization",
-          title: '🚀 Thrilled to join the ENCODE Lab at Westlake University as a visiting...',
+            },},{id: "news-joined-encode-lab-at-westlake-university-as-a-visiting-student-advised-by-prof-huan-wang-excited-to-work-on-efficient-ai-systems",
+          title: '🚀 Joined ENCODE Lab at Westlake University as a visiting student, advised by...',
           description: "",
-          section: "News",},{id: "news-thrilled-to-announce-that-i-ve-completed-my-m-sc-in-computer-science-at-the-chinese-university-of-hong-kong-cuhk-i-m-deeply-grateful-to-my-advisor-prof-bei-yu-for-his-exceptional-mentorship-and-to-my-wonderful-collaborators-rui-ming-and-haoyuan-wu-for-making-this-journey-so-rewarding-looking-forward-to-my-next-chapter-at-westlake-university",
-          title: '🎓 Thrilled to announce that I’ve completed my M.Sc. in Computer Science at...',
+          section: "News",},{id: "news-graduated-with-my-m-sc-in-cs-from-cuhk-huge-thanks-to-my-advisor-prof-bei-yu-and-collaborators-rui-ming-and-haoyuan-wu-next-stop-westlake-university",
+          title: '🎓 Graduated with my M.Sc. in CS from CUHK! Huge thanks to my...',
           description: "",
-          section: "News",},{id: "news-excited-to-share-that-our-paper-streamingtom-streaming-token-compression-for-efficient-video-understanding-is-now-on-arxiv-this-work-wouldn-t-have-been-possible-without-my-amazing-collaborators-keda-tao-kele-shao-and-my-advisor-prof-huan-wang-together-we-ve-developed-a-novel-approach-for-efficient-video-processing-in-mllms-check-it-out-here",
-          title: '📄 Excited to share that our paper “StreamingTOM: Streaming Token Compression for Efficient...',
+          section: "News",},{id: "news-our-paper-streamingtom-streaming-token-compression-for-efficient-video-understanding-is-on-arxiv-thanks-to-co-authors-keda-tao-kele-shao-and-prof-huan-wang-check-it-out-here",
+          title: '📄 Our paper “StreamingTOM: Streaming Token Compression for Efficient Video Understanding” is on...',
           description: "",
           section: "News",},{
         id: 'social-email',
