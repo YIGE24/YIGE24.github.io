@@ -35,7 +35,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-streamingtom-streaming-token-compression-for-efficient-video-understanding-is-on-arxiv-thanks-to-co-authors-keda-tao-kele-shao-and-prof-huan-wang-check-it-out-here",
           title: '📄 Our paper “StreamingTOM: Streaming Token Compression for Efficient Video Understanding” is on...',
           description: "",
-          section: "News",},{id: "news-streamingtom-has-been-accepted-to-cvpr-2026-this-is-my-first-top-venue-first-author-paper-thanks-to-all-co-authors-special-thanks-to-pte-for-design-advice-on-the-paper-figures",
+          section: "News",},{id: "news-streamingtom-has-been-accepted-to-cvpr-2026-this-is-my-first-top-venue-first-author-paper-thanks-to-all-co-authors-see-you-in-denver-special-thanks-to-pte-for-the-figure-design-advice-and-encouragement-during-that-time",
           title: '🎉 StreamingTOM has been accepted to CVPR 2026! This is my first top-venue...',
           description: "",
           section: "News",},{
