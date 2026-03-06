@@ -1,17 +1,43 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
-
+# arXiv
 "arXiv":
   url: https://arxiv.org/
   color: "#b31b1b"
 
+# CV 三大会
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#2196f3"
+
+"ICCV":
+  url: https://iccv.thecvf.com/
+  color: "#0d47a1"
+
+"ECCV":
+  url: https://eccv.ecva.net/
+  color: "#1565c0"
+
+# ML 三大会
 "NeurIPS":
   url: https://neurips.cc/
   color: "#673ab7"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#9c27b0"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#7b1fa2"
+
+# NLP 三大会
+"ACL":
+  url: https://aclanthology.org/
+  color: "#d84315"
+
+"EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+  color: "#e65100"
+
+"NAACL":
+  url: https://aclanthology.org/venues/naacl/
+  color: "#ff6f00"

@@ -27,13 +27,13 @@ latest_posts:
 
 ## About Me
 
-I am **Xueyi Chen** (Chinese: 陈学翊), an incoming PhD student at [**Westlake University**](https://www.westlake.edu.cn/) starting in Fall 2026 advised by [Prof. Huan Wang](https://huanwang.tech/), and currently a research intern at the [**ENCODE Lab**](https://westlake-encode-lab.github.io/). Previously, I earned my MSc in Computer Science from [**The Chinese University of Hong Kong (CUHK)**](https://www.cuhk.edu.hk/) in 2025 supervised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and my BEng in Software Engineering from [**Fuzhou University**](https://www.fzu.edu.cn/) in 2024.
+I am **Xueyi Chen**, an incoming PhD student at [**Westlake University**](https://www.westlake.edu.cn/) starting in Fall 2026 advised by [Prof. Huan Wang](https://huanwang.tech/), and currently a research intern at the [**ENCODE Lab**](https://westlake-encode-lab.github.io/). Previously, I earned my MSc in Computer Science from [**The Chinese University of Hong Kong (CUHK)**](https://www.cuhk.edu.hk/) in 2025 supervised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and my BEng in Software Engineering from [**Fuzhou University**](https://www.fzu.edu.cn/) in 2024.
 
 ## Research Interests
 
 I am broadly interested in building efficient and capable AI systems:
 - **Efficient LLM/MLLM** [[StreamingTOM]](https://arxiv.org/abs/2510.18269)
-- **Effective Diffusion Language Models**
+- **Kernel Generation** [[DICE]](https://arxiv.org/abs/2602.11715)
 - **RL for Model Optimization** [[OORL]](https://arxiv.org/abs/2505.12723) [[ToTRL]](https://arxiv.org/abs/2505.12717)
 
 **I am actively seeking research internships and always open to potential collaborations.** Please feel free to contact me at [xueyi.chen.2024@gmail.com](mailto:xueyi.chen.2024@gmail.com) or [chenxueyi@westlake.edu.cn](mailto:chenxueyi@westlake.edu.cn).
