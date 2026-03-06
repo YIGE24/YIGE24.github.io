@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-🎉 **StreamingTOM** has been accepted to **CVPR 2026**! This is my first top-venue first-author paper! Thanks to all co-authors! Special thanks to ***PTE.*** for design advice on the paper figures!
+🎉 **StreamingTOM** has been accepted to **CVPR 2026**! This is my first top-venue first-author paper! Thanks to all co-authors! See you in Denver! \\
+✝ *Special thanks to **PTE.** for the figure design advice and encouragement during that time!*
