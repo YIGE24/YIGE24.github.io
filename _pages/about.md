@@ -9,8 +9,8 @@ profile:
   image: pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ENCODE Lab</p>
-    <p>Westlake University</p>
+    <p>悟已往之不谏</p>
+    <p>知来者之可追</p>
     <p>Hangzhou, Zhejiang, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

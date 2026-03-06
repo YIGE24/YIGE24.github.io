@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper **"StreamingTOM: Streaming Token Compression for Efficient Video Understanding"** has been accepted to **CVPR 2026**! Thanks to all co-authors! [Paper](https://arxiv.org/abs/2510.18269)
+🎉 **StreamingTOM** has been accepted to **CVPR 2026**! This is my first top-venue first-author paper! Thanks to all co-authors! Special thanks to ***PTE.*** for design advice on the paper figures!

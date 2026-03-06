@@ -1,12 +1,12 @@
-# arXiv
+# arXiv - 红色
 "arXiv":
   url: https://arxiv.org/
   color: "#b31b1b"
 
-# CV 三大会
+# CV 三大会 - 深蓝
 "CVPR":
   url: https://cvpr.thecvf.com/
-  color: "#2196f3"
+  color: "#0d47a1"
 
 "ICCV":
   url: https://iccv.thecvf.com/
@@ -14,25 +14,25 @@
 
 "ECCV":
   url: https://eccv.ecva.net/
-  color: "#1565c0"
+  color: "#0d47a1"
 
-# ML 三大会
+# ML 三大会 - 紫色
 "NeurIPS":
   url: https://neurips.cc/
   color: "#673ab7"
 
 "ICML":
   url: https://icml.cc/
-  color: "#9c27b0"
+  color: "#673ab7"
 
 "ICLR":
   url: https://iclr.cc/
-  color: "#7b1fa2"
+  color: "#673ab7"
 
-# NLP 三大会
+# NLP 三大会 - 橙色
 "ACL":
   url: https://aclanthology.org/
-  color: "#d84315"
+  color: "#e65100"
 
 "EMNLP":
   url: https://aclanthology.org/venues/emnlp/
@@ -40,4 +40,4 @@
 
 "NAACL":
   url: https://aclanthology.org/venues/naacl/
-  color: "#ff6f00"
+  color: "#e65100"
