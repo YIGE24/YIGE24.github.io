@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Thrilled to receive a **Ph.D. offer** from [Prof. Huan Wang](https://huanwang.tech/) at **Westlake University**! Excited to continue working with the amazing team at ENCODE Lab!
+🏆 Thrilled to receive a **Ph.D. offer** from [Prof. Huan Wang](https://huanwang.tech/) at **Westlake University**! Excited to continue working with the amazing team at ENCODE Lab!

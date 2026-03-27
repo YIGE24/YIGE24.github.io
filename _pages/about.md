@@ -32,8 +32,8 @@ I am **Xueyi Chen**, an incoming PhD student at [**Westlake University**](https:
 ## Research Interests
 
 I am broadly interested in building efficient and capable AI systems:
-- **Efficient LLM/MLLM** [[StreamingTOM]](https://arxiv.org/abs/2510.18269)
-- **Kernel Generation** [[DICE]](https://arxiv.org/abs/2602.11715)
-- **RL for Model Optimization** [[OORL]](https://arxiv.org/abs/2505.12723) [[ToTRL]](https://arxiv.org/abs/2505.12717)
+- **Multimodal Understanding** [[StreamingTOM]](https://arxiv.org/abs/2510.18269) [[LVOmniBench]](https://arxiv.org/abs/2603.19217)
+- **LLM for Kernel Generation** [[DICE]](https://arxiv.org/abs/2602.11715) [[MobileKernelBench]](https://arxiv.org/abs/2603.11935)
+- **RL for LLM Reasoning** [[OORL]](https://arxiv.org/abs/2505.12723) [[ToTRL]](https://arxiv.org/abs/2505.12717)
 
 **I am actively seeking research internships and always open to potential collaborations.** Please feel free to contact me at [xueyi.chen.2024@gmail.com](mailto:xueyi.chen.2024@gmail.com) or [chenxueyi@westlake.edu.cn](mailto:chenxueyi@westlake.edu.cn).
