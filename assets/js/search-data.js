@@ -24,10 +24,10 @@ ninja.data = [{
             window.location.href = "/news/";
           },
         },{id: "news-joined-encode-lab-at-westlake-university-as-a-visiting-student-advised-by-prof-huan-wang-excited-to-work-on-efficient-ai-systems",
-          title: '🚀 Joined ENCODE Lab at Westlake University as a visiting student, advised by...',
+          title: '🎓 Joined ENCODE Lab at Westlake University as a visiting student, advised by...',
           description: "",
           section: "News",},{id: "news-thrilled-to-receive-a-ph-d-offer-from-prof-huan-wang-at-westlake-university-excited-to-continue-working-with-the-amazing-team-at-encode-lab",
-          title: '🎉 Thrilled to receive a Ph.D. offer from Prof. Huan Wang at Westlake...',
+          title: '🏆 Thrilled to receive a Ph.D. offer from Prof. Huan Wang at Westlake...',
           description: "",
           section: "News",},{id: "news-graduated-with-my-m-sc-in-cs-from-cuhk-huge-thanks-to-my-advisor-prof-bei-yu-and-collaborators-rui-ming-and-haoyuan-wu-next-stop-westlake-university",
           title: '🎓 Graduated with my M.Sc. in CS from CUHK! Huge thanks to my...',
@@ -37,6 +37,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-streamingtom-has-been-accepted-to-cvpr-2026-this-is-my-first-top-venue-first-author-paper-thanks-to-all-co-authors-see-you-in-denver-special-thanks-to-pte-for-the-figure-design-advice-and-encouragement-during-that-time",
           title: '🎉 StreamingTOM has been accepted to CVPR 2026! This is my first top-venue...',
+          description: "",
+          section: "News",},{id: "news-we-release-lvomnibench-a-comprehensive-benchmark-for-evaluating-omnimodal-llms-on-long-audio-video-understanding-led-by-co-first-authors-keda-tao-and-yuhua-zheng-check-out-our-paper-project-page-and-code",
+          title: '📄 We release LVOmniBench, a comprehensive benchmark for evaluating omnimodal LLMs on long...',
           description: "",
           section: "News",},{
         id: 'social-email',
