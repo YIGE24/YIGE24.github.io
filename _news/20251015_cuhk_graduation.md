@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 Graduated with my M.Sc. in CS from **CUHK**! Huge thanks to my advisor [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and collaborators [Rui Ming](https://atumyalimu.github.io/) and [Haoyuan Wu](https://wuhy68.github.io/). Next stop: Westlake University!
+🎓 Graduated from **CUHK** with my MSc in Computer Science! Huge thanks to my advisor [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and my collaborators [Rui Ming](https://atumyalimu.github.io/) and [Haoyuan Wu](https://wuhy68.github.io/). Next stop: Westlake University!

@@ -9,7 +9,7 @@ last_name: Chen
 contact_note: >
   Feel free to reach me via email for research collaboration opportunities.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student at Westlake University's ENCODE Lab and research intern at inclusionAI, Ant Group. MSc in Computer Science from CUHK. Focused on Efficient LLM/MLLM and RL-based Model Optimization.
+  PhD student at Westlake University's ENCODE Lab and research intern at inclusionAI, Ant Group. MSc in Computer Science from CUHK. Research interests: multimodal understanding, LLMs for kernel generation, and RL for LLM reasoning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
