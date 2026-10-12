@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📄 Two co-first-author preprints on LLM-driven kernel generation are on arXiv: **MetaKernelBench** and **EdgeKernelBench**! Check out the MetaKernelBench [paper](https://arxiv.org/abs/2610.05014), [project page](https://yige24.github.io/MetaKernelBench/), and [code](https://github.com/YIGE24/MetaKernelBench). Thanks to all co-authors!
+📄 Our co-first-author preprint **MetaKernelBench** on LLM-driven kernel generation is on arXiv! Check out the [paper](https://arxiv.org/abs/2610.05014), [project page](https://yige24.github.io/MetaKernelBench/), and [code](https://github.com/YIGE24/MetaKernelBench). Thanks to all co-authors!
