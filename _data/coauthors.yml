@@ -1,14 +1,22 @@
-"tao":
-  - firstname: ["Keda"]
-    url: https://kd-tao.github.io/
+"jin":
+  - firstname: ["Xin"]
+    url: https://jinxins.github.io/
 
-"zheng":
-  - firstname: ["Yuhua"]
-    url: https://pillor9.github.io/
+"li":
+  - firstname: ["Xin"]
+    url: https://profile.slowist.top/
+
+"ming":
+  - firstname: ["Rui"]
+    url: https://atumyalimu.github.io/
 
 "shao":
   - firstname: ["Kele"]
     url: https://cokeshao.github.io/
+
+"tao":
+  - firstname: ["Keda"]
+    url: https://kd-tao.github.io/
 
 "wang":
   - firstname: ["Huan"]
@@ -22,6 +30,10 @@
   - firstname: ["Bei"]
     url: https://www.cse.cuhk.edu.hk/~byu/
 
-"ming":
-  - firstname: ["Rui"]
-    url: https://scholar.google.com/citations?user=moj986MAAAAJ&hl=zh-CN
+"zheng":
+  - firstname: ["Yuhua"]
+    url: https://pillor9.github.io/
+
+"zhu":
+  - firstname: ["Junhan"]
+    url: https://alrightlone.github.io/

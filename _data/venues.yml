@@ -1,9 +1,7 @@
-# arXiv - 红色
 "arXiv":
   url: https://arxiv.org/
   color: "#b31b1b"
 
-# CV 三大会 - 深蓝
 "CVPR":
   url: https://cvpr.thecvf.com/
   color: "#0d47a1"
@@ -16,7 +14,6 @@
   url: https://eccv.ecva.net/
   color: "#0d47a1"
 
-# ML 三大会 - 紫色
 "NeurIPS":
   url: https://neurips.cc/
   color: "#673ab7"
@@ -29,7 +26,10 @@
   url: https://iclr.cc/
   color: "#673ab7"
 
-# NLP 三大会 - 橙色
+"ICLR-W":
+  url: https://iclr.cc/
+  color: "#673ab7"
+
 "ACL":
   url: https://aclanthology.org/
   color: "#e65100"
