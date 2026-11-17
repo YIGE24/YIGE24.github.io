@@ -1,0 +1,39 @@
+name: Deploy static site
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Collect static files
+        run: |
+          mkdir -p _site
+          cp -R index.html publications.html 404.html assets \
+            robots.txt sitemap.xml .nojekyll LICENSE _site/
+          if [ -f CNAME ]; then
+            cp CNAME _site/
+          fi
+
+      - name: Deploy to gh-pages
+        if: github.event_name != 'pull_request'
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: _site
+          single-commit: true
